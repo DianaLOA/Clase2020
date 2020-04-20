@@ -6,3 +6,5 @@ Listado del curso
 1. Camila
 2. Maximiliano
 3. Alondra
+
+[me gusta esta pagina](https://www.bcentral.cl/)
