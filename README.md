@@ -10,4 +10,3 @@ Listado del curso
 [me gusta esta pagina](https://www.bcentral.cl/)
 
 
-![Los pandas son bonitos](file:///C:/Users/dlope/Desktop/BigData/ICO_2020/panda.jpg)
